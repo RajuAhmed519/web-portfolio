@@ -2,7 +2,9 @@ body{margin: 0;
     font-family: 'Poppins', sans-serif;
 }
 h1 {
-    font size: 50px;
+    font size: 10px;
+}
+
 }
 .name-highlight{
     color: orange;
@@ -17,7 +19,7 @@ h1 {
     width: 100%;
 }
 .top-banner{
-    border: 1px red;
+    
 
     background-image: url("top-banner.png");
     background-repeat: no-repeat;
@@ -31,7 +33,34 @@ section{
    text-decoration: none;
    background-image: linear-gradient(lightsalmon, tomato);
    padding: 10px 20px;
-   border-radius: 10px;
+   border-radius: 20px;
    color: white 
-   font-weight: 700px
+   font-weight: 700px;  
 }
+
+
+   
+.half-width2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;}
+
+    .half-width2 img{
+        width: 100%;
+    }
+    
+    
+    }
+    section{
+        height: 500px;
+    } 
+    
+    .link-button2{
+       text-decoration: none;
+       background-image: linear-gradient(lightsalmon, tomato);
+       padding: 10px 20px;
+       border-radius: 20px;
+       color: white 
+       font-weight: 700px;  
+    }
